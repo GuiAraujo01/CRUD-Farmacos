@@ -2,7 +2,7 @@ const Farmacia = (() => {
   const STORAGE_KEY = "farmacia::farmacos";
 
   // ========================
-  // Persistência
+  // Persistência 
   // ========================
   //Lê os dados do localStorage, retornar array de fármacos ou vazio
   const loadFarmacos = () => {
