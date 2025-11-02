@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
 
   // ========================
-  // Seletores de Elementos
+  // Seletores de Elementos 
   // ========================
   // Seletores originais do seu projeto.
   const body = document.body;
