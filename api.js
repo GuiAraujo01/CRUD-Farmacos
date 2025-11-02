@@ -1,5 +1,5 @@
 const ApiMedicamentos = (() => {
-  // Lista expandida para simular um catálogo de API
+  // Lista expandida para simular um catálogo de API.
   const farmacosApi = [
     { nome: "Paracetamol Gotas", marca: "Medley", dosagem: "200mg/mL", qtdPorCaixa: "15ml", categoria: "Analgésico", principioAtivo: "Paracetamol", imagemUrl: "https://placehold.co/100x100/e1e1e1/909090?text=Sem+Img" },
     { nome: "Ibuprofeno", marca: "EMS", dosagem: "200mg", qtdPorCaixa: "20 Comprimidos", categoria: "Anti-inflamatório", principioAtivo: "Ibuprofeno", imagemUrl: "https://placehold.co/100x100/e1e1e1/909090?text=Sem+Img" },
