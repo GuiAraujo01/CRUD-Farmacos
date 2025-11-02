@@ -1,7 +1,7 @@
 /* Importação da Fonte */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 
-/* --- Variáveis de Tema --- */
+/* --- Variáveis de Tema --- */ 
 :root {
     --primary-color: #007bff; --primary-hover: #0056b3; --bg-main: #f8f9fa; --bg-panel: #ffffff;
     --text-primary: #212529; --text-secondary: #6c757d; --border-color: #dee2e6;
